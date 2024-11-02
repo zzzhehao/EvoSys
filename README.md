@@ -12,12 +12,12 @@ The ideal state for this repository would be to serve as an introduction to phyl
 
 ## Format
 
-Notes are (and should be, if you are opening a PR) written in pure [Markdown](https://en.wikipedia.org/wiki/Markdown) with relative path used for cross-reference. I used [Obsidian.md](https://obsidian.md) while writing, but ensuring consistent MD formatting allows you to simply use any other MD editor or reader (or, just use GitHub).
+Notes are (and should be, if you are opening a PR) written in common [Markdown](https://en.wikipedia.org/wiki/Markdown) with relative path used for cross-reference. I used [Obsidian.md](https://obsidian.md) while writing, but ensuring consistent MD formatting allows you to simply use any other MD editor or reader (or, just use GitHub).
 
-No orphan allowed!! All notes should at least be indexed by [00 index](00%20index.md).
+No orphans allowed!! All notes should at least be indexed by [00 index](00%20index.md).
 
 ## Contribution wanted
 
 Detailed methodology are principally lacking at this point. I have contents regarding MSA, ML, Parsimony, Bayesian Inference, Ancestral state reconstruction, but I rarely have time to organize them into notes. 
 
-**Existing contents need improvement.** I simply shared my notes from a course, but they serve more as "supplementary notes" and lack comprehensive explanations for many key concepts. I **might** work on improving this in the next few months, since I have an upcoming project that requires revisiting these topics, but I would still appreciate any contributions to make this repo more self-explanatory.
+**Existing contents need improvement.** I simply shared my notes from a course, but they serve more as "supplementary notes" and lack comprehensive explanations for many key concepts, as I wrote the notes upon understanding those basic concepts. I **might** work on improving this in the next few months, since I have an upcoming project that requires me revisiting these topics, but I could not guarantee that and would still appreciate any contributions to make this repo more self-explanatory.
