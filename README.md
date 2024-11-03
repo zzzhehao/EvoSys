@@ -10,6 +10,8 @@ PRs, issues, comments, corrections and contributions are highly welcome.
 
 The ideal state for this repository would be to serve as an introduction to phylogenetics and its reconstruction methods. It should, if possible, provide a basic overview of each topic, along with references to publications and literature for further reading.
 
+A further format vision is to organize the notes into an online book using [Quarto](https://quarto.org/docs/books/).
+
 ## Format
 
 Notes are (and should be, if you are opening a PR) written in common [Markdown](https://en.wikipedia.org/wiki/Markdown) with relative path used for cross-reference. I used [Obsidian.md](https://obsidian.md) while writing, but ensuring consistent MD formatting allows you to simply use any other MD editor or reader (or, just use GitHub).
